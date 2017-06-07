@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 1,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/asas-128x84.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -70,7 +72,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>"
         }
       ]
     }
