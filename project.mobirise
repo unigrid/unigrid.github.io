@@ -96,9 +96,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "<u>LIMO SERVICE</u><u><br></u><br>Your 1st navigation is here.",
+          "title": "Travel like VIP<br>Your 1st navigation starts here.",
           "text": "Experience Limo Service like a VIP without &nbsp;the VIP &nbsp;rates.&nbsp;Straight to the point, no long winded website information. Clean , Yeah.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Rates</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Rates</a>"
         },
         {
           "alias": "purity/components",
